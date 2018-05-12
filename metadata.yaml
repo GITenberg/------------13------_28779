@@ -1,0 +1,28 @@
+_repo: '------------13------_28779'
+_version: 0.1.0
+alternative_title: "The Gitavros\r\nDrama"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Golfis, Rigas
+    alias: Γκόλφης, Ρήγας
+    birthdate: 1886
+    deathdate: 1958
+    gutenberg_agent_id: '33520'
+    url: http://www.gutenberg.org/2009/agents/33520
+description: ''
+gutenberg_issued: '2009-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28779'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PA'
+title: "Ο Γήταυρος\r\nΔράμα"
+url: http://www.gutenberg.org/ebooks/28779
